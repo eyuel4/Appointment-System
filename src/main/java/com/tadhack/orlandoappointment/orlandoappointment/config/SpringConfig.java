@@ -17,6 +17,6 @@ public class SpringConfig {
 
     @Bean
     public RestOperations restOperations (RestTemplateBuilder restTemplateBuilder) {
-        return restTemplateBuilder.basicAuthorization("17437863","aFFgSWUUeWVpIoMUOEdnL26GBQB3uR05").build();
+        return restTemplateBuilder.basicAuthorization("174378632323","aFFgSWUUeWVpIoMUOEdnL26GBQB3uR0532SDDH").build();
     }
 }
